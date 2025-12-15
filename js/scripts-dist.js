@@ -1,0 +1,1 @@
+// Placeholder for missing scripts-dist.js
